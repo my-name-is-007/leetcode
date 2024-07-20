@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 两数相加逆序存储 {
+public class 两数相加逆序存储06 {
 
     /**
      * 两个逆序存放的整数链表相加求和: 结果也要逆序.

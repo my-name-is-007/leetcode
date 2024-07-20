@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 反转 {
+public class 反转04 {
 
     /**
      * 平时写代码时, 就应该注意截止的位置: 就应该传入stop参数.

@@ -2,9 +2,9 @@ package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
 
-public class 链表是否有环 {
+public class 环的入口09 {
 
-    public static boolean hasCircle(LinkedNode head){
+    public LinkedNode detectCycle(LinkedNode head){
         LinkedNode fast = head;
         LinkedNode slow = head;
 
@@ -13,11 +13,19 @@ public class 链表是否有环 {
             slow = slow.next;
 
             if(fast == slow){
-                return true;
+                break ;
             }
         }
 
-        return false;
+        fast = head;
+        while(true){
+            fast = fast.next;
+            slow = slow.next;
+
+            if(fast == slow){
+                return slow;
+            }
+        }
     }
-    
+
 }

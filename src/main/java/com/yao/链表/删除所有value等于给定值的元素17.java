@@ -2,7 +2,7 @@ package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
 
-public class 删除所有value等于给定值的元素 {
+public class 删除所有value等于给定值的元素17 {
 
     public LinkedNode removeElements(LinkedNode head, int val) {
         //因为head一样可以删除, 所以需要先创建一个前置的虚拟节点

@@ -2,7 +2,7 @@ package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
 
-public class 合并多个有序链表 {
+public class 合并多个有序链表11 {
 
     public static LinkedNode merge(LinkedNode[] lists){
         LinkedNode res = lists[0];

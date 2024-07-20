@@ -2,7 +2,7 @@ package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
 
-public class 删除排序链表中的重复元素保留1个 {
+public class 删除排序链表中的重复元素保留1个16 {
 
     /**
      * 删除排序链表中的重复元素1: 重复的留下一个.

@@ -2,7 +2,7 @@ package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
 
-public class 链表相交 {
+public class 链表相交12 {
 
     public static LinkedNode getIntersectionNode(LinkedNode head1, LinkedNode head2){
         LinkedNode copyedHead1 = head1;

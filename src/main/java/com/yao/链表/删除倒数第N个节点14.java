@@ -1,9 +1,8 @@
 package com.yao.链表;
 
 import com.yao.domain.LinkedNode;
-import com.yao.util.Utils;
 
-public class 删除倒数第N个节点 {
+public class 删除倒数第N个节点14 {
 
     public LinkedNode removeNthFromEnd(LinkedNode head, int n) {
         LinkedNode pre = new LinkedNode(-1);

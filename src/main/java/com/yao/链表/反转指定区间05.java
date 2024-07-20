@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 反转指定区间 {
+public class 反转指定区间05 {
 
     /**
      * 反转从位置 left 到位置 right 的链表节点, 返回 反转后的链表.

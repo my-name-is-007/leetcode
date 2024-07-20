@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 合并两个有序链表 {
+public class 合并两个有序链表10 {
 
     public static LinkedNode merge(LinkedNode l1, LinkedNode l2){
         if(l1 == null){

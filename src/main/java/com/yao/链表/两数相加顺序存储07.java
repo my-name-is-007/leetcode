@@ -5,7 +5,7 @@ import com.yao.util.Utils;
 
 import java.util.Stack;
 
-public class 两数相加顺序存储 {
+public class 两数相加顺序存储07 {
 
     /**
      * 两个正序存放的整数链表相加求和: 结果也要正序.

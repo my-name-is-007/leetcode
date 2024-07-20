@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 贰进制转10进制 {
+public class 贰进制转10进制02 {
 
 
 

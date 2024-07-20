@@ -3,7 +3,7 @@ package com.yao.链表;
 import com.yao.domain.LinkedNode;
 import com.yao.util.Utils;
 
-public class 回文链表 {
+public class 回文链表03 {
 
     /**
      * 当一个指针不够的时候, 再加上一个指针, 这里最少要有两个:

@@ -27,7 +27,7 @@ public class K个一组反转 {
         //因为反转的时候不包含最后一个节点, 所以再向后走一个
         stop = stop.next;
 
-        //反转
+        //反转04
         LinkedNode start = doReverse(head, stop);
 
         //反转之后, head到了尾部, 下一个应该指向下一组的开头.
